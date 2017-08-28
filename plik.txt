@@ -1,1 +1,3 @@
 master dodaj plik
+
+master dodaje zmiane 1
