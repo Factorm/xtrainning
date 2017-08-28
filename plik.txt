@@ -1,3 +1,5 @@
 master dodaj plik
 
 slave dodaje zmiane 1
+
+slave dodaje zmiane 2
