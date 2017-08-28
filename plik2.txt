@@ -1,3 +1,5 @@
 master dodaje plik
 
+develop robi zmiane 1
+
 master znowu zmienia plik
