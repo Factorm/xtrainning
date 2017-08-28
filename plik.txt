@@ -1,3 +1,13 @@
 master dodaj plik
 
+<<<<<<< HEAD
 master dodaje zmiane 1
+=======
+<<<<<<< HEAD
+slave dodaje zmiane 1
+
+slave dodaje zmiane 2
+=======
+slave 2 dodaje zmiane 1
+>>>>>>> slave_2
+>>>>>>> slave
