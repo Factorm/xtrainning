@@ -11,3 +11,5 @@ slave dodaje zmiane 2
 slave 2 dodaje zmiane 1
 >>>>>>> slave_2
 >>>>>>> slave
+
+master zmiana 1
