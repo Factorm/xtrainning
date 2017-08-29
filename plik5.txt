@@ -1,2 +1,6 @@
 master init
 master 1 zmiana
+test 1 zmiana
+test 2 zmiana
+test 3 zmiana
+test 4 zmiana
