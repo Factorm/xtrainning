@@ -1,3 +1,4 @@
 test init
 
 test zmiana 1
+test zmiana 2
