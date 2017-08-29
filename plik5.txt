@@ -1,1 +1,2 @@
 master init
+master 1 zmiana
