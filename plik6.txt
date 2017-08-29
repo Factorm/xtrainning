@@ -3,3 +3,5 @@ test init
 test zmiana 1
 test zmiana 2
 test zmiana 3
+
+test zmiana 4
